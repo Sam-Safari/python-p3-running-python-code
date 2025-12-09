@@ -69,7 +69,7 @@ pipenv run pytest
 ## Project structure
 
 - `lib/` - example application code
-	- `app.py` - tiny script used by the lesson/tests
+  - `app.py` - tiny script used by the lesson/tests
 - `testing/` - test files and pytest fixtures used by the course
 - `README.md` - this file
 
